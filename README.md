@@ -2,9 +2,9 @@
 
 A portfolio site using React Single Page Application. 
 
-### Github 
+### Github: https://github.com/micha2791/MyPortfolio
 
-### Deployed site : 
+### Deployed site : https://micha2791.github.io/MyPortfolio/
 
 ## Description
 A portfolio site using React.js Single Page Application to showcase the projects that I have done in this bootcamp.
@@ -16,12 +16,6 @@ A portfolio site using React.js Single Page Application to showcase the projects
 - Users can see my works on Portfolio page.
 - Users also can send a message on Contact me.
 - Displaying my skills on Resume. Users are be able to download a PDF version of my resume.
-
-
-## Screenshots
-![](src/assets/img/Portfolio-Desktop.gif)
-![](src/assets/img/Portfolio-Mobile.gif)
-
 
 ## Technologies Use
 <p><a href="https://reactjs.org/">React</a></p>
