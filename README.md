@@ -4,7 +4,7 @@ A portfolio site using React Single Page Application.
 
 ### Github: https://github.com/micha2791/MyPortfolio
 
-### Deployed site : https://micha2791.github.io/MyPortfolio/
+### Deployed site : https://mypersonalportfolio1.herokuapp.com/
 
 ## Description
 A portfolio site using React.js Single Page Application to showcase the projects that I have done in this bootcamp.
