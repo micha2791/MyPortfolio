@@ -10,35 +10,30 @@ function Portfolio() {
     ]);
     const [currentPage] = useState(pages[0]);
     const [projects] = useState([
-        {
-            name: 'JavaScript-test',
-            description: 'Js/Boostrap/jQuery',
-            link: "https://micha2791.github.io/QuizTest/",
-            repo: "https://github.com/micha2791/QuizTest"
-        },
+     
         {
             name: 'covid-traveling',
             description: 'JQuery/API/Materialize',
-            link: "",
-            repo: ""
+            link: "https://micha2791.github.io/Covid-Traveling/",
+            repo: "https://github.com/micha2791/Covid-Traveling"
         },
         {
-            name: 'br-for-java',
-            description: 'MERN Stack',
+            name: 'tip-calculator',
+            description: 'iOS/Swift',
             link: "",
-            repo: ""
+            repo: "https://github.com/micha2791/iOS-TipCalculator"
         },
         {
             name: 'run-buddy',
             description: 'HTML/CSS',
-            link: "",
-            repo: ""
+            link: "https://micha2791.github.io/run-buddy/",
+            repo: "https://github.com/micha2791/run-buddy"
         },
         {
             name: 'tech-blog',
             description: 'Node/MySQL/Sequalize',
             link: "",
-            repo: ""
+            repo: "https://github.com/micha2791/Tech-Blog"
         },
         {
             name: 'weather-dashboard',
@@ -47,10 +42,10 @@ function Portfolio() {
             repo: "https://github.com/micha2791/WheaterApp"
         },
         {
-            name: 'food-festival',
-            description: 'JS/Node/PWA',
-            link: "",
-            repo: ""
+            name: 'e-commerce-backend',
+            description: 'JS/Node/MySQL/Sequalize',
+            link: "https://drive.google.com/file/d/1kXgp2SWmG9zc-Yl0JyWmkqfBaNh_u-Ov/view",
+            repo: " https://github.com/micha2791/eComerce-Backend"
         },
         {
             name: 'code-quiz',

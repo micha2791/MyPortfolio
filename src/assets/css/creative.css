@@ -185,7 +185,6 @@ header.masthead {
     transition: all 0.2s; }
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
       position: absolute;
-      top: 50%;
       width: 100%;
       transform: translateY(-50%);
       text-align: center; }
