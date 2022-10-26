@@ -18,6 +18,24 @@ function Portfolio() {
             repo: "https://github.com/micha2791/Covid-Traveling"
         },
         {
+            name: 'employee-tracker',
+            description: 'Javascript/Node.js/MySQL/Inquirer',
+            link: "",
+            repo: "https://github.com/micha2791/EmployeeTracker"
+        },
+        {
+            name: 'presentation-card',
+            description: 'Javascript/HTML/CSS',
+            link: " https://micha2791.github.io/PresentationCard/",
+            repo: "https://github.com/micha2791/PresentationCard"
+        },
+        {
+            name: 'portfolio',
+            description: 'Javascript/Node.js/Express/React',
+            link: "",
+            repo: "https://github.com/micha2791/MyPortfolio"
+        },
+        {
             name: 'tip-calculator',
             description: 'iOS/Swift',
             link: "",
